@@ -1,3 +1,7 @@
+(nota para o professor: 
+esse foi um draft inicial do nosso projeto;
+para melhor visualização do codigo recomendo baixar e abrir no google colab, lá o codigo deve aparecer separado em caixinhas)
+
 **Coisas que temos que fazer:**
 
 1: testar varios modelos (xgboost, regresão linear, svm, knn, random forest, decision tree, neural network)
