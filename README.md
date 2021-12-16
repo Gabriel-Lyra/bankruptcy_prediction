@@ -1,6 +1,6 @@
-(nota para o professor: 
+**(nota para o professor: 
 esse readme foi um draft inicial do nosso projeto;
-para melhor visualização do codigo recomendo baixar e abrir no google colab, lá o codigo deve aparecer separado em caixinhas)
+para melhor visualização do codigo recomendo baixar e abrir no google colab, lá o codigo deve aparecer separado em caixinhas)**
 
 **Coisas que temos que fazer:**
 
