@@ -46,10 +46,10 @@ Previous approaches generally focused in more exploratory data analysis with a v
 As long as a conservative client must be interested, this is how far our model goes on...
 
 1. Results
-![conservative-results](https://github.com/Gabriel-Lyra/bankruptcy_prediction/blob/main/conservative-res.png)
+![conservative-results](https://github.com/mrdedede/bankruptcy_prediction/blob/main/conservative-res.png)
 
 2. ROC Curve
-![conservative-roc](https://github.com/Gabriel-Lyra/bankruptcy_prediction/blob/main/conservative-roc.png)
+![conservative-roc](https://github.com/mrdedede/bankruptcy_prediction/blob/main/conservative-roc.png)
 
 Our results show a good precision and recall of data, when compared our given labels to the ones already present in the dataset.
 This means our results is satisfactory for conservative financial institutions that must be willing to give out loans to enterprises
